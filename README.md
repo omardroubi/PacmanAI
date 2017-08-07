@@ -17,3 +17,5 @@ Probabilistic inference in a hidden Markov model tracks the movement of hidden g
 
 Project 5: Classification 
 Students implement standard machine learning classification algorithms using Naive Bayes, Perceptron, and MIRA models to classify digits. Students extend this by implementing a behavioral cloning Pacman agent.
+
+![pacman](https://user-images.githubusercontent.com/20921475/29050119-8e0cbfea-7be2-11e7-91d9-d6eb80ba618b.jpg)
