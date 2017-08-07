@@ -3,7 +3,7 @@
 AI Pac-Man Game (Python)
 Each project represents an AI/Machine Learning technique that I learned during that week.
 
-Project 1: Search 
+Project 1: Search
 Students implement depth-first, breadth-first, uniform cost, and A* search algorithms. These algorithms are used to solve navigation and traveling salesman problems in the Pacman world.
 
 Project 2: Multi-Agent Search 
