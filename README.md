@@ -15,6 +15,6 @@ Model-based and model-free reinforcement learning algorithms, applied to the AIM
 Probabilistic inference in a hidden Markov model tracks the movement of hidden ghosts in the Pacman world. I implemented the exact inference using the forward algorithm and approximate inference via particle filters.
 
 #### Project 5: Classification
-Standard machine learning classification algorithms using Naive Bayes, Perceptron, and MIRA models to classify digits. I extended this by implementing a behavioral cloning Pacman agent.
+Standard Machine Learning classification algorithms using Naive Bayes, Perceptron, and MIRA models to classify digits. I extended this by implementing a behavioral cloning Pacman agent.
 
 ![pacman](https://user-images.githubusercontent.com/20921475/29050119-8e0cbfea-7be2-11e7-91d9-d6eb80ba618b.jpg)
